@@ -1,0 +1,3 @@
+cam_00000001,web,testcam1,192.168.0.131,west,empty
+cam_00000002,web,testcam2,192.168.0.132,south,empty
+cam_00000003,web,testcam3,192.168.0.133,east,empty
