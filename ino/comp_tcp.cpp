@@ -8,8 +8,8 @@
 #include <WiFi.h>
 
 WiFiClient client;
-const char* ssid     = "TP-LINK_7FE0";
-const char* password = "Hx8830122";
+const char* ssid     = "ssid";
+const char* password = "password";
 const char* host = "192.168.0.105";
 const int port = 21572;
 
